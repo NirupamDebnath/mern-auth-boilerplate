@@ -80,7 +80,7 @@ const Signup = () => {
                 <h1>Signup</h1>
                 {signupForm()}
                 <br/>
-                <Link to="/auth/password/forgot" class="btn btn-sm btn-outline-danger btn-block">
+                <Link to="/auth/password/forgot" className="btn btn-sm btn-outline-danger btn-block">
                     Forgot Password
                 </Link>
             </div>
